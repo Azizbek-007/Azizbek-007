@@ -1,7 +1,5 @@
-#Hi 👋 My full name Azizbek Berdimuratov
+<h1>Hi 👋 My full name Azizbek Berdimuratov</h1>
 
-
-**Azizbek-007/Azizbek-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
